@@ -1,32 +1,32 @@
 # Final-Diplomatura
 Trabajo práctico integrador
-El objetivo del trabajo práctico es aplicar los conocimientos adquiridos a lo largo de la
-tecnicatura y desarrollar un producto final que pueda ser utilizado por un cliente.
+    El objetivo del trabajo práctico es aplicar los conocimientos adquiridos a lo largo de la
+    tecnicatura y desarrollar un producto final que pueda ser utilizado por un cliente.
 
-Condiciones de aprobación
-Se requiere implementar las funcionalidades detalladas.
-Se evalúa tanto el proceso de desarrollo como el producto final.
-Se tendrá en cuenta calidad del código, buenas prácticas y elección de una arquitectura
-adecuada.
-Se hará un seguimiento constante sobre el trabajo por parte de un corrector y se habilitarán
-varios horarios de consulta de acuerdo la disponibilidad horaria de los correctores.
+# Condiciones de aprobación
+    Se requiere implementar las funcionalidades detalladas.
+    Se evalúa tanto el proceso de desarrollo como el producto final.
+    Se tendrá en cuenta calidad del código, buenas prácticas y elección de una arquitectura
+    adecuada.
+    Se hará un seguimiento constante sobre el trabajo por parte de un corrector y se habilitarán
+    varios horarios de consulta de acuerdo la disponibilidad horaria de los correctores.
 
 
-Requisitos
+# Requisitos
 ●Temática:Elegir una temática para el trabajo final y validar con el corrector asignado.
     Ejemplos de temática:
         ● Venta de algún producto (libros, celulares, o cualquier otro)
         ● Avisos clasificados (marketplace) 
         ● Tweeter
 
-Arquitectura y stack de tecnologías
+# Arquitectura y stack de tecnologías
     Se deberá desarrollar un sitio web estático que responda a las funcionalidades pedidas.
     El sitio deberá conectarse a un servicio backend, el cual dará soporte a la plataforma.
     Los servicios deberán estar desplegados en la nube utilizando Heroku.
     Las tecnologías a ser utilizadas son: Html, CSS, JavaScript, Python, Flask y algún motor de
     base de datos.
 
-Funcionalidades Obligatorias
+# Funcionalidades Obligatorias
 ●CRUD
     Se requiere implementar un CRUD (Create Read Update Delete) de algún artículo.
 ●Listar artículos/elementos
@@ -36,8 +36,7 @@ Funcionalidades Obligatorias
 ●Información de los desarrolladores
     Agregar información de contacto de los desarrolladores.
 
-Funcionalidades Opcionales
-
+# Funcionalidades Opcionales
 ●Listados paginados
     Paginar los listados de los artículos. Puede ser server o client side.
 ●Registro y login de usuarios
